@@ -1,4 +1,4 @@
-![Alt text].(Html.png)
+![Alt text](Html.png)
 
 # My Project
 AWS PROJECT: Deployed and hosted a highly-available WordPress application using EC2, RDS, Route 53, ASG and VPC"
