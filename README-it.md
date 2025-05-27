@@ -183,12 +183,5 @@ sudo service httpd restart
 4. Configura l’Auto Scaling Group, il Load Balancer e gli altri servizi secondo l’architettura descritta.  
 5. Accedi al sito WordPress tramite il nome DNS del Load Balancer.
 
-## Contributi
-
-I contributi a questo progetto sono benvenuti! Effettua un fork del repository e invia una pull request con i tuoi miglioramenti.
-
-## Licenza
-
-Questo progetto è distribuito sotto licenza MIT – vedi il file LICENSE per i dettagli.
 
 ---
